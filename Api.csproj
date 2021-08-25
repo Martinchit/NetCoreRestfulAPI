@@ -29,7 +29,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="AspNetCore.Authentication.Plugin" Version="1.0.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.18" />
     <PackageReference Include="AspNetCore.ImageUploader" Version="1.0.0" />
   </ItemGroup>
 </Project>
